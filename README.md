@@ -2,4 +2,4 @@
 TestGestionSEC
 
 Hola Mundo!!
-Reposotiro para aprender de repositorios :)
+Repositorio para aprender de repositorios :)
